@@ -1,0 +1,21 @@
+{
+  "short_name": "Portfolio",
+  "name": "陳奕嘉 | 跨領域創造者",
+  "description": "Code. Physics. Aviation. 將抽象邏輯轉化為解決現實問題的系統。",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
